@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nova Studio · İletişim</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container header__inner">
+      <a class="logo" href="index.html">Nova Studio</a>
+      <nav class="nav" aria-label="Ana menü">
+        <a class="nav__link" href="index.html">Ana Sayfa</a>
+        <a class="nav__link" href="services.html">Hizmetler</a>
+        <a class="nav__link" href="portfolio.html">Portfolyo</a>
+        <a class="nav__link" href="about.html">Hakkımızda</a>
+        <a class="nav__link nav__link--active" href="contact.html" aria-current="page">İletişim</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container section two-col">
+    <section>
+      <h1 class="section__title">Bize Ulaşın</h1>
+      <form class="form" action="#" method="get">
+        <div class="form__row"><label for="ad">Ad Soyad</label><input id="ad" name="ad" type="text" required placeholder="Adınız Soyadınız" /></div>
+        <div class="form__row"><label for="mail">E-posta</label><input id="mail" name="mail" type="email" required placeholder="ornek@posta.com" /></div>
+        <div class="form__row"><label for="konu">Konu</label><input id="konu" name="konu" type="text" placeholder="Mesaj konusu" /></div>
+        <div class="form__row"><label for="mesaj">Mesaj</label><textarea id="mesaj" name="mesaj" rows="6" placeholder="Mesajınız..."></textarea></div>
+        <div class="form__actions"><button class="btn" type="submit">Gönder</button><a class="btn btn--ghost" href="index.html">İptal</a></div>
+      </form>
+    </section>
+    <aside>
+      <div class="info"><h3>İletişim Bilgileri</h3><ul class="list"><li>E-posta: hello@novastudio.co</li><li>Tel: +90 212 000 00 00</li><li>Adres: Levent, İstanbul</li></ul></div>
+      <div class="map"><h3>Konum</h3><div class="map__ph"></div></div>
+      <div class="hours"><h3>Çalışma Saatleri</h3><ul class="list"><li>Pzt–Cum: 09:00–18:00</li><li>Cmt: 10:00–14:00</li><li>Paz: Kapalı</li></ul></div>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__grid">
+      <section><h3>Studio</h3><p>Nova, ölçeklenebilir dijital deneyimler üretir.</p></section>
+      <section><h3>Bağlantılar</h3><ul class="list"><li><a href="index.html">Ana Sayfa</a></li><li><a href="services.html">Hizmetler</a></li><li><a href="portfolio.html">Portfolyo</a></li><li><a href="about.html">Hakkımızda</a></li><li><a href="contact.html">İletişim</a></li></ul></section>
+      <section><h3>İletişim</h3><ul class="list"><li><a href="mailto:hello@novastudio.co">hello@novastudio.co</a></li><li>+90 212 000 00 00</li></ul></section>
+    </div>
+    <div class="footer__bottom">© 2025 Nova Studio</div>
+  </footer>
+</body>
+</html>

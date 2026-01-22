@@ -6,9 +6,9 @@ Nova Studio, kurumsal ve ajans yapısına uygun olarak tasarlanmış,
 Proje; sade tasarım, okunabilir kod yapısı ve temel kullanıcı etkileşimleri
 ön planda tutularak geliştirilmiştir.
 
----
 
-## 🚀 Özellikler
+
+Özellikler
 
 - Responsive (mobil, tablet, masaüstü uyumlu) tasarım
 - Sticky header ve aktif menü gösterimi
@@ -16,17 +16,17 @@ Proje; sade tasarım, okunabilir kod yapısı ve temel kullanıcı etkileşimler
 - Basit ve kullanıcı dostu iletişim formu
 - Temiz HTML, CSS ve Vanilla JavaScript kullanımı
 
----
 
-## 🧱 Kullanılan Teknolojiler
+
+Kullanılan Teknolojiler
 
 - HTML5  
 - CSS3 (Flexbox & Grid)  
 - Vanilla JavaScript (Frameworksüz)
 
----
 
-## 📂 Sayfa Yapısı
+
+Sayfa Yapısı
 
 - **Ana Sayfa** – Tanıtım ve öne çıkan hizmetler  
 - **Hizmetler** – Sunulan servisler ve paketler  
@@ -34,9 +34,9 @@ Proje; sade tasarım, okunabilir kod yapısı ve temel kullanıcı etkileşimler
 - **Hakkımızda** – Zaman çizelgesi ve ekip  
 - **İletişim** – İletişim formu ve bilgiler  
 
----
 
-## ⚙️ JavaScript Hakkında
+
+JavaScript Hakkında
 
 Projede kullanılan JavaScript kodu;
 
@@ -48,9 +48,9 @@ Projede kullanılan JavaScript kodu;
 Kodlar bilinçli olarak sade tutulmuş,
 framework veya otomatik sistemler kullanılmamıştır.
 
----
 
-## 📌 Amaç
+
+Amaç
 
 Bu proje;
 
@@ -60,8 +60,8 @@ Bu proje;
 
 amacıyla hazırlanmıştır.
 
----
 
-## 👤 Geliştirici
+
+ Geliştirici
 
 Bu proje eğitim ve kişisel gelişim amacıyla geliştirilmiştir.
